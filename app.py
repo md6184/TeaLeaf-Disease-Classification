@@ -158,7 +158,7 @@ with center:
     st.markdown(
         '<div class="header-card"><div class="header-title">'
         'Tea Leaf Disease and Pest Classification Using Transfer Learning<br>'
-        '<span style="font-size:25px">on a Novel Bangladeshi Dataset</span></div>'
+        '<span style="font-size:25px">on A Novel Bangladeshi Dataset</span></div>'
         '<div class="header-sub">🍃 Tea Leaf Disease Analysis 🍃</div></div>',
         unsafe_allow_html=True,
     )
