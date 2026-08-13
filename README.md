@@ -1,6 +1,5 @@
-# TeaLeaf AI — Final Streamlit Application
+# TeaLeafHUB
 
-This version follows the approved reference interface: dark-green sidebar, TeaLeaf AI branding, Faridpur Engineering College logo, three top result cards, model comparison, probability chart, recognizable class gallery, and the decision-support footer.
 
 ## Models
 - ResNet50 — `models/best_resnet50.pth`
